@@ -1,7 +1,7 @@
 Feature: Verify the homepage widgets
 
     As a user
-    I want to visit the goodlard website
+    I want to visit the goodlord website
     So I can verify the widgets
 
     Scenario: Visit the homepage
