@@ -1,0 +1,25 @@
+{
+  "name": "goodlord",
+  "version": "1.0.0",
+  "description": "Goodlord UI Automation",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "keywords": [
+    "Cypress",
+    "BDD",
+    "Goodlord"
+  ],
+  "author": "Peter",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^5.5.0",
+    "cypress-cucumber-preprocessor": "^4.0.0",
+    "prettier": "^2.1.2"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "baseUrl": "https://www.goodlord.co/",
+    "video": false,
+    "defaultCommandTimeout": 60000,
+    "pageLoadTimeout": 60000,
+    "ignoreTestFiles": ["*.js", "*.md"],
+    "waitForAnimations": true,
+    "animationDistanceThreshold": 5
+}
